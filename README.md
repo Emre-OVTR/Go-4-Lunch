@@ -8,7 +8,7 @@ Il est possible de :
 - consulter les restaurants sur la map
 - consulter les restaurants sous forme de liste
 - consulter la fiche d'un restaurant depuis l'icone ou la liste
-- changemnt de couleur de l'icone lors d'une réservartion
+- changement de couleur de l'icone lors d'une réservartion
 - moteur de recherche sur la map et la liste
 - consulter la liste des collègues et leurs statut
 - consulter notre reservation
